@@ -18,14 +18,19 @@ I'm a 2024 B.Tech Computer Science graduate and a beginner frontend developer wh
 
 Here are a few simple frontend projects I've made to practice and learn:
 
-- 🎵 **Soundify** – React Music Player using Deezer API  
-  [Live Demo](https://soundify-pranav.vercel.app) | [GitHub](https://github.com/prnv001/soundify)
+### 🎵 Soundify – React Music Player App  
+A full-featured music player built with React and Deezer API. Supports play, pause, volume, dark mode, and responsive design.  
+🔗 [Live Demo](https://soundify-music.vercel.app) | 💻 [GitHub](https://github.com/prnv001/Soundify-music)
 
-- 🔐 **Authify** – OTP-based Login & Signup with Dark Mode  
-  [Live Demo](https://authify-pranav.vercel.app) | [GitHub](https://github.com/prnv001/authify)
 
-- 🎬 **Mini Netflix Clone** – Simple movie UI using React  
-  [Live Demo](https://netflix-clone-pranav.vercel.app) | [GitHub](https://github.com/prnv001/netflix-clone)
+### ⛅ Vanilla Weather App – JavaScript Project  
+A weather app built using JavaScript and OpenWeatherMap API. Shows temperature, city name, and updates data based on user input.  
+🔗 [Live Demo](https://prnv001.github.io/vanilla-weather) | 💻 [GitHub](https://github.com/prnv001/vanilla-weather)
+
+
+### 💼 PixelMascot – Responsive Landing Page  
+An internship task where I converted a Figma design into a pixel-perfect, mobile-responsive website using only HTML, CSS, and JavaScript.  
+🔗 [Live Demo](https://prnv001.github.io/pixelmascot-landing-page) | 💻 [GitHub](https://github.com/prnv001/pixelmascot-landing-page)
 
 ---
 
